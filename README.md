@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<a href="https://github.com/SharanKalyan">
+<a href="https://github.com/MonshaRadhakrishnan">
   
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SharanKalyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SharanKalyan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MonshaRadhakrishnan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MonshaRadhakrishnan&layout=compact&langs_count=8&theme=algolia"/>
 
 </a>
 </p>
@@ -15,8 +15,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sharan-s-k9ab3ab151/"><img src="https://img.shields.io/badge/-Sharan-Kalyan?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sharandhoni2526@gmail.com"><img src="https://img.shields.io/badge/-Sharan-Kalyan?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/monisha-radhakrishnan-393b96155"><img src="https://img.shields.io/badge/-Monisha-Radhakrishnan?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:moni12radha@gmail.com"><img src="https://img.shields.io/badge/-Monisha-Radhakrishnan?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
@@ -35,7 +35,7 @@ https://aqi-weather-0yre.onrender.com/
 https://virat-kohli-odi-predictions.streamlit.app/
 
 3. Virat Kohli ODI Performance Analysis – An interactive Tableau dashboard analyzing Virat Kohli’s ODI statistics, trends, and performance metrics.
-https://public.tableau.com/app/profile/sharankalyan/viz/ViratKohli-ODI/ViratKohliODIDashboard?publish=yes
+https://public.tableau.com/app/profile/MonshaRadhakrishnan/viz/ViratKohli-ODI/ViratKohliODIDashboard?publish=yes
 
 4. Credit Risk Prediction System – A Machine Learning classification application that predicts credit card approval risk based on applicant financial and demographic features.
 https://credit-card-approval-application.streamlit.app/
@@ -49,7 +49,7 @@ I hold a Bachelor’s degree in Computer Science Engineering from Anna Universit
 
 
 <!--
-**SharanKalyan/SharanKalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MonshaRadhakrishnan/MonshaRadhakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: sharandhoni2526@gmail.com 
+- 📫 How to reach me: moni12radha@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
